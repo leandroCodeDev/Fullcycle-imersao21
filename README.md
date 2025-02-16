@@ -23,7 +23,7 @@ Se você estiver no Windows, use o WSL 2. Veja nosso tutorial [https://github.co
 
 ## Rodar a aplicação
 
-Ao final das aulas teremos todo o projeto, no momento estamos na aula 01 do Nest.js, então, acessar a pasta **nestjs-api** e siga as instruções.
+Ao final das aulas teremos todo o projeto, no momento estamos na aula 02 do Next.js, então, acesse as pastas **nestjs-api** e **next-frontend** e siga as instruções.
 
 ## Links e material adicional
 
@@ -36,4 +36,3 @@ Ao final das aulas teremos todo o projeto, no momento estamos na aula 01 do Nest
 ## Arquitetura do projeto
 
 ![alt text](./arquitetura_projeto.png)
-
